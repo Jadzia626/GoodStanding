@@ -1,9 +1,9 @@
-## Interface: 70200
-## X-Compatible-With: 70200
-## Title: Good Standing|cff00aa00 0.1-70200|r
+## Interface: 80000
+## X-Compatible-With: 80000
+## Title: Good Standing|cff00aa00 0.1.1-80000|r
 ## Notes: Reputation plugin for Titan Panel.
 ## Author: Jadzia626
-## Version: 0.1.0.70200
+## Version: 0.1.1.80000
 ## X-Category: Tooltip
 ## X-eMail: code@jadzia626.net
 ## OptionalDeps: Ace3

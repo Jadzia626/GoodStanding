@@ -153,7 +153,7 @@ end
 
 do
     function self:GS_OnEvent(event)
-        print(textColor("GS Faction Update",gsColors.message));
+        --print(textColor("GS Faction Update",gsColors.message));
         self:ScanFactions();
     end
 end
